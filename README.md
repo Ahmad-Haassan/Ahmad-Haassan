@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Ahmad Hassan 👋
-### Computer Science & AI Developer • Autonomous Desktop & Voice Agents
+### Computer Science Student @ NASTP Institute of Information Technology (NIIT)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://urlclipper.com/tGgTE0)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad--Haassan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-Haassan)
@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  Passionate software engineer specializing in <b>offline speech synthesis</b>, <b>autonomous desktop systems</b> and <b>full-stack web platforms</b>. I design high-performance applications that bridge cutting-edge AI models with native OS automation and fluid user interfaces.
+  Computer Science student at <b>NASTP Institute of Information Technology (NIIT)</b> building practical engineering projects across <b>offline speech synthesis</b>, <b>desktop automation</b> and <b>full-stack web applications</b>.
 </p>
 
 </div>
