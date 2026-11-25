@@ -5,6 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://urlclipper.com/tGgTE0)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad--Haassan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-Haassan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhassan512/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadd557125@gmail.com)
 
 <br />
@@ -44,5 +45,6 @@ Desktop & OS  :: Electron • PyQt6 Shaders • Win32 API • WebRTC • Cloudfl
 ### 📬 Connect With Me
 
 - **Portfolio**: [urlclipper.com/tGgTE0](https://urlclipper.com/tGgTE0)
+- **LinkedIn**: [linkedin.com/in/ahmadhassan512](https://www.linkedin.com/in/ahmadhassan512/)
 - **Email**: [ahmadd557125@gmail.com](mailto:ahmadd557125@gmail.com)
 - **GitHub**: [@Ahmad-Haassan](https://github.com/Ahmad-Haassan)
