@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://ahmad-portfolio-olive-nine.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad--Haassan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-Haassan)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.hassan.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadd557125@gmail.com)
 
 <br />
 
@@ -41,19 +41,8 @@ Desktop & OS  :: Electron • PyQt6 Shaders • Win32 API • WebRTC • Cloudfl
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Haassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Haassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 ### 📬 Connect With Me
 
 - **Portfolio**: [ahmad-portfolio-olive-nine.vercel.app](https://ahmad-portfolio-olive-nine.vercel.app/)
-- **Email**: [ahmad.hassan.dev@gmail.com](mailto:ahmad.hassan.dev@gmail.com)
+- **Email**: [ahmadd557125@gmail.com](mailto:ahmadd557125@gmail.com)
 - **GitHub**: [@Ahmad-Haassan](https://github.com/Ahmad-Haassan)
