@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  Passionate software engineer specializing in <b>offline speech synthesis</b>, <b>autonomous desktop systems</b>, and <b>full-stack web platforms</b>. I design high-performance applications that bridge cutting-edge AI models with native OS automation and fluid user interfaces.
+  Passionate software engineer specializing in <b>offline speech synthesis</b>, <b>autonomous desktop systems</b> and <b>full-stack web platforms</b>. I design high-performance applications that bridge cutting-edge AI models with native OS automation and fluid user interfaces.
 </p>
 
 </div>
