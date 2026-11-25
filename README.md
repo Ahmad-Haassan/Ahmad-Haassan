@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Ahmad Hassan 👋
-### Computer Science Student @ NASTP Institute of Information Technology (NIIT)
+### Computer Science Student 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://urlclipper.com/tGgTE0)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmad--Haassan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-Haassan)
